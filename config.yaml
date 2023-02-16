@@ -1,0 +1,92 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: ["zh-CN", "en-us"]
+
+title: "影动"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "影动"
+  description: "我们致力于为用户提供高效、可靠、简洁的RPA服务"
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "深圳市南山区招商街道沿山社区南海大道1081号悠然居A区-42号"
+
+  contact:
+    - "邮箱: xiao.hu19960203@gamail.com"
+    - "电话: 13772184392"
+
+  copyright: "© 2023 影动（深圳）软件技术有限责任公司 All Rights Reserved"
+
+  postProcess: false
+
+menus:
+  main:
+    - name: "首页"
+      url: "/#hero"
+      weight: 1
+
+    - name: "客户案例"
+      url: "/#"
+      weight: 2
+
+    - name: "关于我们"
+      url: "/#"
+      weight: 3
+
+    - name: "产品介绍"
+      url: "/#"
+      weight: 4
+
+    - name: "博客"
+      url: "/blog"
+      weight: 5
+
+  buttons:
+    - name: "联系我们"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "首页"
+      url: "/#hero"
+      weight: 1
+
+    - name: "客户案例"
+      url: "/#"
+      weight: 2
+
+    - name: "关于我们"
+      url: "/#"
+      weight: 3
+
+    - name: "产品介绍"
+      url: "/#"
+      weight: 4
+
+    - name: "博客"
+      url: "/blog"
+      weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"

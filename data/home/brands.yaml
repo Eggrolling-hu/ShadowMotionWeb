@@ -1,0 +1,11 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "部分合作用户品牌"
+  items:
+    - "images/brands-samsumg.png"
+    - "images/brands-google.png"
+    - "images/brands-adobe.png"
+    - "images/brands-spotify.png"
+    - "images/brands-dropbox.png"
