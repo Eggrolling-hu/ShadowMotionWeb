@@ -1,7 +1,7 @@
-baseURL: "https://www.example.com/"
-theme: "up-business-theme"
-languageCode: ["zh-CN", "en-us"]
-
+baseURL: "."
+relativeURLs: true
+uglyURLs: true
+languageCode: ["zh-cn", "en-us"]
 title: "影动"
 
 # googleAnalytics: ""
@@ -11,7 +11,7 @@ summaryLength: 20
 params:
   title: "影动"
   description: "我们致力于为用户提供高效、可靠、简洁的RPA服务"
-  images: 
+  images:
     - "images/hero-image.png"
 
   logo: "arrow-up.png"
@@ -90,3 +90,13 @@ menus:
 taxonomies:
   series: "series"
   tags: "tags"
+
+module:
+  mounts:
+    - source: assets
+      target: assets
+
+build:
+  noJSConfigInAssets: false
+  useResourceCacheWhen: fallback
+  writeStats: false

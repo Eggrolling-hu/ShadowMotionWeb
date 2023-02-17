@@ -2,79 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 影动</title>
-    <link>https://www.example.com/tags/</link>
+    <link>./tags.html</link>
     <description>Recent content in Tags on 影动</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://www.example.com/tags/css/</link>
+      <link>./tags/css.html</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/tags/css/</guid>
+      <guid>./tags/css.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://www.example.com/tags/html/</link>
+      <link>./tags/html.html</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/tags/html/</guid>
+      <guid>./tags/html.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://www.example.com/tags/markdown/</link>
+      <link>./tags/markdown.html</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://www.example.com/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.example.com/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://www.example.com/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.example.com/tags/shortcodes/</guid>
+      <guid>./tags/markdown.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://www.example.com/tags/text/</link>
+      <link>./tags/text.html</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/tags/text/</guid>
+      <guid>./tags/text.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://www.example.com/tags/emoji/</link>
+      <link>./tags/emoji.html</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/tags/emoji/</guid>
+      <guid>./tags/emoji.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://www.example.com/tags/index/</link>
+      <link>./tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/tags/index/</guid>
+      <guid>./tags/index/</guid>
       <description></description>
     </item>
     

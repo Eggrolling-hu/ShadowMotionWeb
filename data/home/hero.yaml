@@ -2,7 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "招募RPA**数字员工** 让一切可靠高效"
+  title1: "招募**数字员工**"
+  title2: "让一切可靠高效"
   text: "基于RPA技术，我们提供高效可靠的服务，助您完成繁杂的业务流程"
 
   buttonPrimary:
@@ -12,4 +13,3 @@ content:
   buttonSecondary:
     label: "查看技术展示"
     url: ""
-
